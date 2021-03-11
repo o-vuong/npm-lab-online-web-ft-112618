@@ -21,6 +21,6 @@
   "homepage": "https://github.com/o-vuong/npm-lab-online-web-ft-112618#readme",
   "dependencies": {
     "learn-browser": "^0.1.24",
-    "moment": "^2.24.0"
+    "moment": "^2.29.1"
   }
 }
